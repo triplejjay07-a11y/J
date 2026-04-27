@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Peace &amp; Recovery Co.</title>
+  <desc id="desc">Calm abstract shapes with the Peace &amp; Recovery Co. name.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b0c10"/>
+      <stop offset="1" stop-color="#1a2230"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="30%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#d9c7ff" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#d9c7ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="75%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#b7ffe3" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#b7ffe3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glowA)"/>
+  <rect width="1200" height="630" fill="url(#glowB)"/>
+  <circle cx="250" cy="235" r="150" fill="#ffffff" opacity=".08"/>
+  <circle cx="890" cy="365" r="210" fill="#ffffff" opacity=".06"/>
+  <path d="M185 420c130 78 308 78 448 0s245-20 320 42" fill="none" stroke="#ffffff" stroke-width="34" stroke-linecap="round" opacity=".18"/>
+  <text x="110" y="285" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Peace &amp; Recovery Co.</text>
+  <text x="114" y="355" fill="#ffffff" fill-opacity=".76" font-family="Arial, Helvetica, sans-serif" font-size="32">Med Spa " Wellness " Aesthetics</text>
+</svg>
