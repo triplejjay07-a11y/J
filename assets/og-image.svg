@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Peace and Recovery Co. med spa">
+  <rect width="1200" height="630" fill="#0b0c10"/>
+  <circle cx="360" cy="270" r="190" fill="#d9c7ff" opacity="0.25"/>
+  <circle cx="760" cy="360" r="230" fill="#b7ffe3" opacity="0.18"/>
+  <path d="M230 405c145 88 340 86 500-4 120-68 218-43 305 42" fill="none" stroke="#ffffff" stroke-width="34" stroke-linecap="round" opacity="0.22"/>
+  <text x="120" y="230" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">Peace &amp; Recovery Co.</text>
+  <text x="124" y="315" fill="#ffffff" opacity="0.78" font-family="Arial, Helvetica, sans-serif" font-size="34">Med Spa &#8226; Wellness &#8226; Aesthetics</text>
+  <text x="124" y="370" fill="#ffffff" opacity="0.68" font-family="Arial, Helvetica, sans-serif" font-size="28">Memphis, Tennessee</text>
+</svg>
