@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Peace and Recovery Co. med spa">
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#151720"/>
+      <stop offset="1" stop-color="#0b0c10"/>
+    </linearGradient>
+    <radialGradient id="glow-a" cx="30%" cy="35%" r="45%">
+      <stop offset="0" stop-color="#d9c7ff" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#d9c7ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-b" cx="74%" cy="54%" r="45%">
+      <stop offset="0" stop-color="#b7ffe3" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#b7ffe3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <rect width="1200" height="630" fill="url(#glow-a)"/>
+  <rect width="1200" height="630" fill="url(#glow-b)"/>
+  <g fill="#ffffff">
+    <text x="110" y="260" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700">Peace &amp; Recovery Co.</text>
+    <text x="114" y="335" font-family="Arial, Helvetica, sans-serif" font-size="34" opacity="0.76">Med Spa " Wellness " Aesthetics</text>
+    <text x="114" y="410" font-family="Arial, Helvetica, sans-serif" font-size="30" opacity="0.68">Calm results. Confident you.</text>
+  </g>
+  <g transform="translate(900 160)" opacity="0.88">
+    <circle cx="80" cy="80" r="76" fill="#d9c7ff" opacity="0.58"/>
+    <circle cx="150" cy="150" r="92" fill="#b7ffe3" opacity="0.48"/>
+    <path d="M35 180c52 32 116 32 168 0" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" opacity="0.62"/>
+  </g>
+</svg>
