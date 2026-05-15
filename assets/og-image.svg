@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Peace and Recovery Co. med spa">
+  <rect width="1200" height="630" fill="#0b0c10"/>
+  <circle cx="330" cy="240" r="210" fill="#d9c7ff" fill-opacity="0.22"/>
+  <circle cx="820" cy="360" r="260" fill="#b7ffe3" fill-opacity="0.18"/>
+  <path d="M150 430c145 86 330 86 490 0 150-82 260-46 410 44" fill="none" stroke="#ffffff" stroke-width="34" stroke-linecap="round" stroke-opacity="0.15"/>
+  <text x="120" y="280" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700">Peace &amp; Recovery Co.</text>
+  <text x="124" y="355" fill="#ffffff" fill-opacity="0.72" font-family="Arial, Helvetica, sans-serif" font-size="34">Med Spa - Wellness - Aesthetics</text>
+</svg>
