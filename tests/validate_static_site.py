@@ -84,3 +84,10 @@ def test_html_local_references_exist():
                 missing.append(f"{html_file.name}: {reference} -> {path}")
 
     assert not missing, "Missing local references:\n" + "\n".join(sorted(missing))
+
+
+if __name__ == "__main__":
+    test_required_deploy_paths_exist()
+    test_uploaded_browser_suffixes_are_not_deploy_sources()
+    test_html_local_references_exist()
+    print("Static site validation passed.")
