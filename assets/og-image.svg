@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title>Peace &amp; Recovery Co.</title>
+  <desc>Med Spa, wellness, and aesthetics in Memphis, Tennessee.</desc>
+  <defs>
+    <radialGradient id="lavender" cx="25%" cy="25%" r="60%">
+      <stop offset="0%" stop-color="#d9c7ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#d9c7ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mint" cx="75%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#b7ffe3" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#b7ffe3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b0c10"/>
+  <rect width="1200" height="630" fill="url(#lavender)"/>
+  <rect width="1200" height="630" fill="url(#mint)"/>
+  <rect x="84" y="82" width="1032" height="466" rx="44" fill="#ffffff" opacity="0.07" stroke="#ffffff" stroke-opacity="0.14"/>
+  <circle cx="920" cy="236" r="108" fill="#d9c7ff" opacity="0.2"/>
+  <circle cx="1000" cy="342" r="132" fill="#b7ffe3" opacity="0.16"/>
+  <path d="M825 404c66 42 153 42 225 0" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round" opacity="0.22"/>
+  <text x="140" y="250" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700">Peace &amp; Recovery Co.</text>
+  <text x="145" y="326" fill="#ffffff" fill-opacity="0.78" font-family="Arial, Helvetica, sans-serif" font-size="34">Med Spa | Wellness | Aesthetics</text>
+  <text x="145" y="390" fill="#ffffff" fill-opacity="0.68" font-family="Arial, Helvetica, sans-serif" font-size="28">Memphis, Tennessee</text>
+</svg>
