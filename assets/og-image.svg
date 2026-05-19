@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Peace and Recovery Co. med spa">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b0c10"/>
+      <stop offset="1" stop-color="#1b2230"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="30%" cy="35%" r="60%">
+      <stop offset="0" stop-color="#d9c7ff" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#d9c7ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <circle cx="890" cy="215" r="185" fill="#b7ffe3" opacity="0.14"/>
+  <circle cx="985" cy="375" r="240" fill="#d9c7ff" opacity="0.12"/>
+  <text x="92" y="230" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">Peace &amp; Recovery Co.</text>
+  <text x="96" y="318" fill="#d8dee9" font-family="Arial, Helvetica, sans-serif" font-size="34">Med Spa " Wellness " Aesthetics</text>
+  <text x="96" y="407" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42">Calm results. Confident you.</text>
+</svg>
