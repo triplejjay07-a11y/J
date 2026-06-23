@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Peace and Recovery Co.">
+  <rect width="64" height="64" rx="18" fill="#0b0c10"/>
+  <circle cx="25" cy="25" r="16" fill="#d9c7ff" opacity="0.85"/>
+  <circle cx="39" cy="39" r="16" fill="#b7ffe3" opacity="0.75"/>
+  <path d="M20 39c8 6 17 6 25 0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+</svg>
