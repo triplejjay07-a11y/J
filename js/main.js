@@ -123,7 +123,7 @@
         status.textContent = "Opening your email app to send the request.";
       }
 
-      window.location.href = "mailto:" + encodeURIComponent(CONTACT_EMAIL) +
+      window.location.href = "mailto:" + CONTACT_EMAIL +
         "?subject=" + encodeURIComponent("Consultation request from " + name) +
         "&body=" + encodeURIComponent(body);
     });
