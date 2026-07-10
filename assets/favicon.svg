@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Peace &amp; Recovery Co.</title>
+  <defs>
+    <linearGradient id="bg" x1="10" x2="54" y1="8" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9c7ff"/>
+      <stop offset="1" stop-color="#b7ffe3"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#0b0c10"/>
+  <circle cx="25" cy="25" r="16" fill="url(#bg)" opacity=".88"/>
+  <circle cx="40" cy="38" r="18" fill="#b7ffe3" opacity=".54"/>
+  <path d="M17 39c9 7 20 7 30 0" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-width="5" opacity=".82"/>
+</svg>
